@@ -2,6 +2,7 @@
   "name": "shopify-poc",
   "version": "0.1.0",
   "private": true,
+  "description": "POC shopify with NextJS, TailwindCSS, GraphQl and Typescript",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
